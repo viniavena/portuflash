@@ -1,20 +1,15 @@
 import Head from 'next/head';
 import FlashcardFront from '../components/Flashcards/FlashcardFront';
 import FlashcardBack from '../components/Flashcards/FlashcardBack';
-import { useState } from 'react';
-
-const flashcard = {
-  word: 'Casa',
-  translation: 'House',
-  example: 'Eu moro em uma casa bonita.',
-};
+import LoadingSpinner from '../components/LoadingSpinner';
+import { useState, useEffect } from 'react';
 
 export default function Home() {
-  const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const [showBack, setShowBack] = useState(false);
   const [result, setResult] = useState('');
   const [resultText, setResultText] = useState('');
   const [userAnswer, setUserAnswer] = useState('');
+  const [flashcard, setFlashcard] = useState(null);
 
   const rightAnswer = [
     'Correto, Parabéns!',
@@ -71,11 +66,20 @@ export default function Home() {
     setShowBack(true);
   };
 
-  const handleNewWord = () => {
+  const handleNewWord = async () => {
     setResult('');
     setShowBack(false);
-    setCurrentCardIndex(prevIndex => (prevIndex + 1) % flashcard.length);
+    setUserAnswer('');
+    const response = await fetch('/api/flashcards');
+    const newFlashcard = await response.json();
+
+    console.log(newFlashcard);
+    setFlashcard(newFlashcard);
   };
+
+  useEffect(() => {
+    handleNewWord();
+  }, []);
 
   return (
     <div>
@@ -83,21 +87,25 @@ export default function Home() {
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-2">Hora do Português</h1>
           <h2 className="text-2xl mb-20 font-bold">Portuguese Time</h2>
-          {showBack ? (
-            <FlashcardBack
-              example={flashcard.example}
-              answer={flashcard.translation}
-              result={result}
-              resultText={resultText}
-              onNewWord={handleNewWord}
-              userAnswer={userAnswer}
-            />
+          {flashcard ? (
+            showBack ? (
+              <FlashcardBack
+                example={flashcard.example}
+                answer={flashcard.portuguese}
+                result={result}
+                resultText={resultText}
+                onNewWord={handleNewWord}
+                userAnswer={userAnswer}
+              />
+            ) : (
+              <FlashcardFront
+                word={flashcard.english}
+                answer={flashcard.portuguese}
+                onCheck={handleCheck}
+              />
+            )
           ) : (
-            <FlashcardFront
-              word={flashcard.word}
-              answer={flashcard.translation}
-              onCheck={handleCheck}
-            />
+            <LoadingSpinner />
           )}
         </div>
       </main>
@@ -113,18 +121,4 @@ export default function Home() {
       </footer>
     </div>
   );
-}
-
-export async function getStaticProps() {
-  const response = await fetch('/data/flashcards.json');
-  const flashcards = await response.json();
-
-  const randomIndex = Math.floor(Math.random() * flashcards.length);
-  const flashcard = flashcards[randomIndex];
-
-  return {
-    props: {
-      flashcard,
-    },
-  };
 }
