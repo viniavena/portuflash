@@ -125,6 +125,7 @@
   .card,
   .footer {
     border-color: #ffffff;
+    font-size: smaller;
   }
   .link {
     font-weight: 700;

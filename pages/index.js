@@ -1,5 +1,12 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
+import Flashcard from '../components/flashcard';
+
+const flashcard = {
+  word: 'Casa',
+  translation: 'House',
+  example: 'Eu moro em uma casa bonita.',
+};
 
 export default function Home() {
   return (
@@ -14,21 +21,7 @@ export default function Home() {
         <h1 className={styles.title}>Hora do português</h1>
         <h2 className={styles.subtitle}>Portuguese Time</h2>
 
-        <p className={styles.description}>Get started doing some flashcards </p>
-
-        <div className={styles.card}>
-          {/* <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a> */}
-        </div>
+        <Flashcard {...flashcard} />
       </main>
 
       <footer className={styles.footer}>
