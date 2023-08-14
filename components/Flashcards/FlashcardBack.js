@@ -1,17 +1,32 @@
 import React from 'react';
+import Button from '../Button';
 
-const FlashcardBack = ({ translation, result, example, onNewWord }) => {
+const FlashcardBack = ({
+  answer,
+  result,
+  resultText,
+  userAnswer,
+  example,
+  onNewWord,
+}) => {
   return (
-    <div className="max-w-md mx-auto p-4 border rounded-lg shadow-lg">
-      <h2 className="text-xl mb-2">{result}</h2>
-      <p>Tradução: {translation}</p>
-      <p>Exemplo: {example}</p>
-      <button
-        className="px-4 py-2 bg-blue-500 text-white rounded mt-4"
-        onClick={onNewWord}
-      >
-        Nova Palavra
-      </button>
+    <div className="max-w-md mx-auto p-8 bg-white border rounded-lg shadow-lg flex flex-col justify-between items-center space-y-8">
+      <h2 className="text-2xl  mb-2 text-custom-purple font-bold">
+        {resultText}
+      </h2>
+      {result == 'right' ? (
+        <p className="text-custom-purple">Resposta: {answer}</p>
+      ) : (
+        <div className="justify-center">
+          <p className="text-custom-purple">Sua resposta: {userAnswer}</p>
+          <p className="text-custom-purple">
+            Resposta correta: {answer.toLowerCase()}
+          </p>
+        </div>
+      )}
+      <p className="text-custom-purple">Exemplo: {example}</p>
+
+      <Button text={'Nova Palavra'} disabled={false} onClick={onNewWord} />
     </div>
   );
 };

@@ -1,0 +1,9 @@
+[
+    {
+      "id": 1,
+      "english": "Example",
+      "portuguese": "Exemplo",
+      "example": "This is an example sentence.",
+      "tags":["Noun"]
+    }
+  ]
