@@ -3,7 +3,14 @@
       "id": 1,
       "english": "Example",
       "portuguese": "Exemplo",
-      "example": "This is an example sentence.",
+      "example": "Isso é um bom exemplo.",
+      "tags":["Noun"]
+    },
+    {
+      "id": 2,
+      "english": "House",
+      "portuguese": "Casa",
+      "example": "Era uma casa muito engraçada.",
       "tags":["Noun"]
     }
   ]

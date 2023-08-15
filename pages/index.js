@@ -12,7 +12,7 @@ export default function Home() {
   const [flashcard, setFlashcard] = useState(null);
 
   const rightAnswer = [
-    'Correto, Parabéns!',
+    'Correto, parabéns!',
     'Well done!',
     'You rock!',
     'Você acertou!',
@@ -33,6 +33,23 @@ export default function Home() {
     'Eu acredito que você consegue na próxima',
     'Não foi dessa vez, mas continue tentando',
   ];
+
+  const getBackgroundColor = () => {
+    if (showBack) {
+      switch (result) {
+        case 'right':
+          return 'bg-green-500';
+        case 'almost':
+          return 'bg-yellow-500';
+        case 'wrong':
+          return 'bg-red-500';
+        default:
+          return 'bg-custom-purple'; // Default color
+      }
+    } else {
+      return 'bg-custom-purple';
+    }
+  };
 
   const handleCheck = (userInput, flashcardAnswer) => {
     const answer = flashcardAnswer.toLowerCase();
@@ -82,31 +99,33 @@ export default function Home() {
   }, []);
 
   return (
-    <div>
-      <main className="min-h-screen flex justify-center mt-10">
+    <div className={`${getBackgroundColor()}`}>
+      <main className="min-h-screen flex justify-center pt-10">
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-2">Hora do Português</h1>
           <h2 className="text-2xl mb-20 font-bold">Portuguese Time</h2>
-          {flashcard ? (
-            showBack ? (
-              <FlashcardBack
-                example={flashcard.example}
-                answer={flashcard.portuguese}
-                result={result}
-                resultText={resultText}
-                onNewWord={handleNewWord}
-                userAnswer={userAnswer}
-              />
+          <div className="max-w-full px-4 sm:max-w-md mx-auto sm:mx-4">
+            {flashcard ? (
+              showBack ? (
+                <FlashcardBack
+                  example={flashcard.example}
+                  answer={flashcard.portuguese}
+                  result={result}
+                  resultText={resultText}
+                  onNewWord={handleNewWord}
+                  userAnswer={userAnswer}
+                />
+              ) : (
+                <FlashcardFront
+                  word={flashcard.english}
+                  answer={flashcard.portuguese}
+                  onCheck={handleCheck}
+                />
+              )
             ) : (
-              <FlashcardFront
-                word={flashcard.english}
-                answer={flashcard.portuguese}
-                onCheck={handleCheck}
-              />
-            )
-          ) : (
-            <LoadingSpinner />
-          )}
+              <LoadingSpinner />
+            )}
+          </div>
         </div>
       </main>
       <footer className="border-t text-white py-4 text-center">
