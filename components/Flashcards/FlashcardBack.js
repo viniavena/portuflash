@@ -30,11 +30,11 @@ const FlashcardBack = ({
     >
       <h2 className={`text-2xl mb-2 font-bold`}>{resultText}</h2>
       {result === 'right' ? (
-        <p>Resposta: {answer}</p>
+        <p>Answer: {answer}</p>
       ) : (
         <div className="justify-center">
-          <p>Sua resposta: {userAnswer}</p>
-          <p>Resposta correta: {answer.toLowerCase()}</p>
+          <p>Your answer: {userAnswer}</p>
+          <p>Right answer: {answer.toLowerCase()}</p>
         </div>
       )}
       <p>Exemplo: {example}</p>

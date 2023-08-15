@@ -2,6 +2,7 @@ import Head from 'next/head';
 import FlashcardFront from '../components/Flashcards/FlashcardFront';
 import FlashcardBack from '../components/Flashcards/FlashcardBack';
 import LoadingSpinner from '../components/LoadingSpinner';
+import Header from '../components/Header';
 import { useState, useEffect } from 'react';
 
 export default function Home() {
@@ -90,7 +91,6 @@ export default function Home() {
     const response = await fetch('/api/flashcards');
     const newFlashcard = await response.json();
 
-    console.log(newFlashcard);
     setFlashcard(newFlashcard);
   };
 
@@ -100,15 +100,16 @@ export default function Home() {
 
   return (
     <div className={`${getBackgroundColor()}`}>
+      <Header />
       <main className="min-h-screen flex justify-center pt-10">
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-2">Hora do Português</h1>
-          <h2 className="text-2xl mb-20 font-bold">Portuguese Time</h2>
+          <h2 className="text-2xl mb-10 font-bold">Portuguese Time</h2>
           <div className="max-w-full px-4 sm:max-w-md mx-auto sm:mx-4">
             {flashcard ? (
               showBack ? (
                 <FlashcardBack
-                  example={flashcard.example}
+                  example={flashcard.example_portuguese}
                   answer={flashcard.portuguese}
                   result={result}
                   resultText={resultText}
@@ -120,6 +121,7 @@ export default function Home() {
                   word={flashcard.english}
                   answer={flashcard.portuguese}
                   onCheck={handleCheck}
+                  example={flashcard.example_english}
                 />
               )
             ) : (
