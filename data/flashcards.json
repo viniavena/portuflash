@@ -1,5 +1,260 @@
 [
   {
+    "portuguese": "Menino",
+    "english": "Boy",
+    "example_portuguese": "O menino está brincando no parque.",
+    "example_english": "The boy is playing in the park.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Menina",
+    "english": "Girl",
+    "example_portuguese": "A menina gosta de desenhar e pintar.",
+    "example_english": "The girl likes to draw and paint.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Adulto",
+    "english": "Adult",
+    "example_portuguese": "Os adultos estão conversando na sala.",
+    "example_english": "The adults are talking in the living room.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Idoso",
+    "english": "Elderly person",
+    "example_portuguese": "Os idosos estão fazendo exercícios na praça.",
+    "example_english": "The elderly people are exercising in the square.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Pessoa",
+    "english": "Person",
+    "example_portuguese": "Cada pessoa tem sua própria história.",
+    "example_english": "Each person has their own story.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Homem",
+    "english": "Man",
+    "example_portuguese": "O homem está lendo o jornal no café.",
+    "example_english": "The man is reading the newspaper at the café.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Mulher",
+    "english": "Woman",
+    "example_portuguese": "A mulher está trabalhando no escritório.",
+    "example_english": "The woman is working in the office.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Criança",
+    "english": "Child",
+    "example_portuguese": "As crianças estão brincando no parquinho.",
+    "example_english": "The children are playing in the playground.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Jovem",
+    "english": "Youth",
+    "example_portuguese": "Os jovens estão se preparando para o evento.",
+    "example_english": "The youth are getting ready for the event.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Adolescente",
+    "english": "Teenager",
+    "example_portuguese": "O adolescente está estudando para as provas.",
+    "example_english": "The teenager is studying for exams.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Amigo",
+    "english": "Friend",
+    "example_portuguese": "Meu amigo sempre me ajuda quando preciso.",
+    "example_english": "My friend always helps me when I need.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Amiga",
+    "english": "Friend (female)",
+    "example_portuguese": "Minha amiga e eu gostamos de fazer caminhadas juntas.",
+    "example_english": "My friend and I enjoy going for walks together.",
+    "grammar_class": "Noun",
+    "tags": "People"
+  },
+  {
+    "portuguese": "Família",
+    "english": "Family",
+    "example_portuguese": "Minha família é muito unida.",
+    "example_english": "My family is very close-knit.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Pai",
+    "english": "Father",
+    "example_portuguese": "Meu pai é um excelente cozinheiro.",
+    "example_english": "My father is an excellent cook.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Mãe",
+    "english": "Mother",
+    "example_portuguese": "Minha mãe sempre me apoia em tudo.",
+    "example_english": "My mother always supports me in everything.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Filho",
+    "english": "Son",
+    "example_portuguese": "Meu filho adora brincar no parque.",
+    "example_english": "My son loves playing in the park.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Filha",
+    "english": "Daughter",
+    "example_portuguese": "Minha filha está aprendendo a tocar piano.",
+    "example_english": "My daughter is learning to play the piano.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Irmão",
+    "english": "Brother",
+    "example_portuguese": "Meu irmão é mais velho do que eu.",
+    "example_english": "My brother is older than me.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Irmã",
+    "english": "Sister",
+    "example_portuguese": "Minha irmã gosta de ler romances.",
+    "example_english": "My sister enjoys reading novels.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Avô",
+    "english": "Grandfather",
+    "example_portuguese": "Meu avô adora contar histórias.",
+    "example_english": "My grandfather loves telling stories.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Avó",
+    "english": "Grandmother",
+    "example_portuguese": "Minha avó faz os melhores bolinhos.",
+    "example_english": "My grandmother makes the best cookies.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Tio",
+    "english": "Uncle",
+    "example_portuguese": "Meu tio é muito engraçado e animado.",
+    "example_english": "My uncle is very funny and lively.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },{
+    "portuguese": "Tia",
+    "english": "Aunt",
+    "example_portuguese": "Minha tia sempre nos visita nos fins de semana.",
+    "example_english": "My aunt always visits us on weekends.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Primo",
+    "english": "Cousin (male)",
+    "example_portuguese": "Meu primo e eu adoramos jogar futebol juntos.",
+    "example_english": "My cousin and I love playing soccer together.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Prima",
+    "english": "Cousin (female)",
+    "example_portuguese": "Minha prima é uma ótima companheira de aventuras.",
+    "example_english": "My cousin is a great adventure buddy.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Sobrinho",
+    "english": "Nephew",
+    "example_portuguese": "Meu sobrinho é muito curioso e inteligente.",
+    "example_english": "My nephew is very curious and intelligent.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Sobrinha",
+    "english": "Niece",
+    "example_portuguese": "Minha sobrinha adora desenhar e pintar.",
+    "example_english": "My niece loves drawing and painting.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Genro",
+    "english": "Son-in-law",
+    "example_portuguese": "Meu genro é muito gentil e prestativo.",
+    "example_english": "My son-in-law is very kind and helpful.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Nora",
+    "english": "Daughter-in-law",
+    "example_portuguese": "Minha nora é uma ótima cozinheira.",
+    "example_english": "My daughter-in-law is a great cook.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Sogro",
+    "english": "Father-in-law",
+    "example_portuguese": "Meu sogro é muito dedicado à família.",
+    "example_english": "My father-in-law is very dedicated to the family.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Sogra",
+    "english": "Mother-in-law",
+    "example_portuguese": "Minha sogra sempre nos recebe com um sorriso caloroso.",
+    "example_english": "My mother-in-law always welcomes us with a warm smile.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
+    "portuguese": "Enteado",
+    "english": "Stepson",
+    "example_portuguese": "Meu enteado é muito talentoso na música.",
+    "example_english": "My stepson is very talented in music.",
+    "grammar_class": "Noun",
+    "tags": "Family"
+  },
+  {
     "portuguese": "ano",
     "english": "year",
     "example_portuguese": "Este ano foi desafiador.",
@@ -1464,6 +1719,158 @@
     "tags": "Food"
   },
   {
+    "portuguese": "Arroz",
+    "english": "Rice",
+    "example_portuguese": "Vou cozinhar arroz para o almoço.",
+    "example_english": "I'm going to cook rice for lunch.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Feijão",
+    "english": "Beans",
+    "example_portuguese": "Feijão é uma excelente fonte de proteína.",
+    "example_english": "Beans are an excellent source of protein.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Cenoura",
+    "english": "Carrot",
+    "example_portuguese": "Adoro usar cenoura em sopas e saladas.",
+    "example_english": "I love using carrot in soups and salads.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Batata",
+    "english": "Potato",
+    "example_portuguese": "Vou fazer batatas fritas como acompanhamento.",
+    "example_english": "I'm going to make french fries as a side dish.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Cebola",
+    "english": "Onion",
+    "example_portuguese": "A cebola dá um sabor incrível aos pratos.",
+    "example_english": "Onion adds an amazing flavor to dishes.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Alho",
+    "english": "Garlic",
+    "example_portuguese": "O alho é usado como tempero em muitas receitas.",
+    "example_english": "Garlic is used as a seasoning in many recipes.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Tomate",
+    "english": "Tomato",
+    "example_portuguese": "O tomate é uma base comum para molhos.",
+    "example_english": "Tomato is a common base for sauces.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Milho",
+    "english": "Corn",
+    "example_portuguese": "Milho é um ingrediente versátil em muitas receitas.",
+    "example_english": "Corn is a versatile ingredient in many recipes.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Peixe",
+    "english": "Fish",
+    "example_portuguese": "O peixe é uma ótima fonte de proteína.",
+    "example_english": "Fish is a great source of protein.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Carne",
+    "english": "Meat",
+    "example_portuguese": "Gosto de preparar carne grelhada no churrasco.",
+    "example_english": "I like to grill meat at a barbecue.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Queijo",
+    "english": "Cheese",
+    "example_portuguese": "O queijo derretido dá um toque especial à pizza.",
+    "example_english": "Melted cheese adds a special touch to pizza.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Manteiga",
+    "english": "Butter",
+    "example_portuguese": "Geralmente uso manteiga para cozinhar.",
+    "example_english": "I usually use butter for cooking.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Azeite",
+    "english": "Olive Oil",
+    "example_portuguese": "O azeite de oliva é saudável e saboroso.",
+    "example_english": "Olive oil is healthy and tasty.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Sal",
+    "english": "Salt",
+    "example_portuguese": "Adicione um pouco de sal para realçar o sabor.",
+    "example_english": "Add a pinch of salt to enhance the flavor.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Açúcar",
+    "english": "Sugar",
+    "example_portuguese": "O açúcar é usado para adoçar sobremesas.",
+    "example_english": "Sugar is used to sweeten desserts.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Farinha",
+    "english": "Flour",
+    "example_portuguese": "A farinha é usada para fazer pães e bolos.",
+    "example_english": "Flour is used to make bread and cakes.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Mel",
+    "english": "Honey",
+    "example_portuguese": "Adiciono mel ao chá para adoçar.",
+    "example_english": "I add honey to tea to sweeten it.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Ovo",
+    "english": "Egg",
+    "example_portuguese": "Vou fazer ovos mexidos para o café da manhã.",
+    "example_english": "I'm going to make scrambled eggs for breakfast.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
+    "portuguese": "Frango",
+    "english": "Chicken",
+    "example_portuguese": "Gosto de fazer frango assado com ervas.",
+    "example_english": "I like to make roasted chicken with herbs.",
+    "grammar_class": "Noun",
+    "tags": "Food"
+  },
+  {
     "portuguese": "sobremesa",
     "english": "dessert",
     "example_portuguese": "A sobremesa estava deliciosa e decadente.",
@@ -1496,28 +1903,164 @@
     "tags": "Food"
   },
   {
-    "portuguese": "café",
-    "english": "coffee",
-    "example_portuguese": "Preciso de uma xícara de café.",
-    "example_english": "I need a cup of coffee.",
+    "portuguese": "Maçã",
+    "english": "Apple",
+    "example_portuguese": "Uma maçã por dia mantém o médico afastado.",
+    "example_english": "An apple a day keeps the doctor away.",
     "grammar_class": "Noun",
-    "tags": "Food"
+    "tags": "Fruits"
   },
   {
-    "portuguese": "chá",
-    "english": "tea",
-    "example_portuguese": "Gosto de chá de camomila antes de dormir.",
-    "example_english": "I like chamomile tea before sleeping.",
+    "portuguese": "Banana",
+    "english": "Banana",
+    "example_portuguese": "Adoro comer uma banana no café da manhã.",
+    "example_english": "I love eating a banana for breakfast.",
     "grammar_class": "Noun",
-    "tags": "Food"
+    "tags": "Fruits"
   },
   {
-    "portuguese": "suco",
-    "english": "juice",
-    "example_portuguese": "Um suco de laranja é refrescante.",
-    "example_english": "An orange juice is refreshing.",
+    "portuguese": "Laranja",
+    "english": "Orange",
+    "example_portuguese": "Gosto de tomar suco de laranja natural.",
+    "example_english": "I like to drink fresh orange juice.",
     "grammar_class": "Noun",
-    "tags": "Food"
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Morango",
+    "english": "Strawberry",
+    "example_portuguese": "Os morangos estão deliciosos hoje.",
+    "example_english": "The strawberries are delicious today.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Abacaxi",
+    "english": "Pineapple",
+    "example_portuguese": "O abacaxi é refrescante no verão.",
+    "example_english": "Pineapple is refreshing in the summer.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Manga",
+    "english": "Mango",
+    "example_portuguese": "A manga está madura e suculenta.",
+    "example_english": "The mango is ripe and juicy.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Uva",
+    "english": "Grape",
+    "example_portuguese": "As uvas são ótimas para fazer suco.",
+    "example_english": "Grapes are great for making juice.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Melancia",
+    "english": "Watermelon",
+    "example_portuguese": "Uma fatia de melancia é refrescante no calor.",
+    "example_english": "A slice of watermelon is refreshing in the heat.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Pera",
+    "english": "Pear",
+    "example_portuguese": "Uma pera madura é doce e suculenta.",
+    "example_english": "A ripe pear is sweet and juicy.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Cereja",
+    "english": "Cherry",
+    "example_portuguese": "As cerejas são pequenas e saborosas.",
+    "example_english": "Cherries are small and tasty.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Limão",
+    "english": "Lemon",
+    "example_portuguese": "O suco de limão é ótimo para temperar saladas.",
+    "example_english": "Lemon juice is great for dressing salads.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Kiwi",
+    "english": "Kiwi",
+    "example_portuguese": "O kiwi é uma fruta cheia de vitaminas.",
+    "example_english": "Kiwi is a fruit packed with vitamins.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Framboesa",
+    "english": "Raspberry",
+    "example_portuguese": "As framboesas são pequenas e saborosas.",
+    "example_english": "Raspberries are small and tasty.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Pêssego",
+    "english": "Peach",
+    "example_portuguese": "Gosto de comer um pêssego maduro e suculento.",
+    "example_english": "I enjoy eating a ripe and juicy peach.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Amora",
+    "english": "Blackberry",
+    "example_portuguese": "As amoras são ótimas para fazer sobremesas.",
+    "example_english": "Blackberries are great for making desserts.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Goiaba",
+    "english": "Guava",
+    "example_portuguese": "A goiaba é uma fruta tropical deliciosa.",
+    "example_english": "Guava is a delicious tropical fruit.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Ameixa",
+    "english": "Plum",
+    "example_portuguese": "As ameixas são ótimas para fazer compotas.",
+    "example_english": "Plums are great for making jams.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Maracujá",
+    "english": "Passion Fruit",
+    "example_portuguese": "O suco de maracujá é delicioso e refrescante.",
+    "example_english": "Passion fruit juice is delicious and refreshing.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Melão",
+    "english": "Cantaloupe",
+    "example_portuguese": "Um pedaço de melão é ótimo como lanche.",
+    "example_english": "A piece of cantaloupe is great as a snack.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
+  },
+  {
+    "portuguese": "Coco",
+    "english": "Coconut",
+    "example_portuguese": "O coco é usado para fazer água de coco e outros pratos.",
+    "example_english": "Coconut is used to make coconut water and other dishes.",
+    "grammar_class": "Noun",
+    "tags": "Fruits"
   },
   {
     "portuguese": "água",
@@ -2549,7 +3092,7 @@
     "example_portuguese": "Segunda-feira é o primeiro dia útil da semana.",
     "example_english": "Monday is the first working day of the week.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "terça-feira",
@@ -2557,7 +3100,7 @@
     "example_portuguese": "Terça-feira é o dia da semana seguinte à segunda.",
     "example_english": "Tuesday is the day following Monday.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "quarta-feira",
@@ -2565,7 +3108,7 @@
     "example_portuguese": "Quarta-feira é o meio da semana.",
     "example_english": "Wednesday is the middle of the week.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "quinta-feira",
@@ -2573,7 +3116,7 @@
     "example_portuguese": "Quinta-feira é um dia produtivo.",
     "example_english": "Thursday is a productive day.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "sexta-feira",
@@ -2581,7 +3124,7 @@
     "example_portuguese": "Sexta-feira é o último dia útil da semana.",
     "example_english": "Friday is the last working day of the week.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "sábado",
@@ -2589,7 +3132,7 @@
     "example_portuguese": "Sábado é um dia de descanso.",
     "example_english": "Saturday is a day of rest.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "domingo",
@@ -2597,7 +3140,7 @@
     "example_portuguese": "Domingo é um dia para relaxar.",
     "example_english": "Sunday is a day to relax.",
     "grammar_class": "Noun",
-    "tags": "Days of the Week"
+    "tags": "Time"
   },
   {
     "portuguese": "andar",
@@ -2605,7 +3148,7 @@
     "example_portuguese": "Gosto de andar no parque.",
     "example_english": "I like to walk in the park.",
     "grammar_class": "Verb",
-    "tags": "Walking"
+    "tags": "Go for a walk"
   },
   {
     "portuguese": "caminhar",
@@ -2613,7 +3156,7 @@
     "example_portuguese": "Caminhamos pela praia.",
     "example_english": "We walked along the beach.",
     "grammar_class": "Verb",
-    "tags": "Walking"
+    "tags": "Go for a walk"
   },
   {
     "portuguese": "passear",
@@ -2621,7 +3164,7 @@
     "example_portuguese": "Vou passear pelo bairro.",
     "example_english": "I'm going to stroll around the neighborhood.",
     "grammar_class": "Verb",
-    "tags": "Walking"
+    "tags": "Go for a walk"
   },
   {
     "portuguese": "correr",
@@ -2629,7 +3172,7 @@
     "example_portuguese": "Ele gosta de correr todas as manhãs.",
     "example_english": "He likes to run every morning.",
     "grammar_class": "Verb",
-    "tags": "Walking"
+    "tags": "Go for a walk"
   },
   {
     "portuguese": "comer",
@@ -2704,6 +3247,166 @@
     "tags": "Sports"
   },
   {
+    "portuguese": "Jogar",
+    "english": "To play",
+    "example_portuguese": "Vamos jogar futebol no parque.",
+    "example_english": "Let's play soccer at the park.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Praticar",
+    "english": "To practice",
+    "example_portuguese": "Ela gosta de praticar natação regularmente.",
+    "example_english": "She enjoys practicing swimming regularly.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Competir",
+    "english": "To compete",
+    "example_portuguese": "Eles estão se preparando para competir na maratona.",
+    "example_english": "They are getting ready to compete in the marathon.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Treinar",
+    "english": "To train",
+    "example_portuguese": "Ele precisa treinar mais para melhorar suas habilidades.",
+    "example_english": "He needs to train more to improve his skills.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Marcar um gol/ponto",
+    "english": "To score a goal/point",
+    "example_portuguese": "O jogador marcou um gol incrível no último jogo.",
+    "example_english": "The player scored an amazing goal in the last game.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Saltar",
+    "english": "To jump",
+    "example_portuguese": "O atleta saltou alto para passar a barreira.",
+    "example_english": "The athlete jumped high to clear the hurdle.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Arremessar",
+    "english": "To throw",
+    "example_portuguese": "Ela conseguiu arremessar o disco muito longe.",
+    "example_english": "She managed to throw the discus very far.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Nadar",
+    "english": "To swim",
+    "example_portuguese": "Nós costumamos nadar no mar durante o verão.",
+    "example_english": "We usually swim in the sea during the summer.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Correr",
+    "english": "To run",
+    "example_portuguese": "Ele está treinando para correr uma maratona.",
+    "example_english": "He's training to run a marathon.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Surfar",
+    "english": "To surf",
+    "example_portuguese": "Eles adoram ir à praia para surfar as ondas.",
+    "example_english": "They love going to the beach to surf the waves.",
+    "grammar_class": "Verb",
+    "tags": "Sports"
+  },  
+  {
+    "portuguese": "Futebol",
+    "english": "Soccer",
+    "example_portuguese": "O futebol é o esporte mais popular no Brasil.",
+    "example_english": "Soccer is the most popular sport in Brazil.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Basquete",
+    "english": "Basketball",
+    "example_portuguese": "Vamos jogar basquete no parque amanhã.",
+    "example_english": "Let's play basketball at the park tomorrow.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Vôlei",
+    "english": "Volleyball",
+    "example_portuguese": "A escola organiza torneios de vôlei durante o ano.",
+    "example_english": "The school organizes volleyball tournaments throughout the year.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Tênis",
+    "english": "Tennis",
+    "example_portuguese": "Vou jogar tênis com meu amigo mais tarde.",
+    "example_english": "I'm going to play tennis with my friend later.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Natação",
+    "english": "Swimming",
+    "example_portuguese": "A piscina é ótima para praticar natação.",
+    "example_english": "The pool is great for practicing swimming.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Atletismo",
+    "english": "Track and field",
+    "example_portuguese": "O atletismo inclui corrida, salto e arremesso.",
+    "example_english": "Track and field includes running, jumping, and throwing.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Ciclismo",
+    "english": "Cycling",
+    "example_portuguese": "Gosto de fazer ciclismo nos finais de semana.",
+    "example_english": "I enjoy cycling on weekends.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Golfe",
+    "english": "Golf",
+    "example_portuguese": "Meu avô gosta de jogar golfe no campo local.",
+    "example_english": "My grandfather enjoys playing golf at the local course.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Surfe",
+    "english": "Surfing",
+    "example_portuguese": "As praias da região são excelentes para praticar surfe.",
+    "example_english": "The beaches in the area are excellent for surfing.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
+    "portuguese": "Esqui",
+    "english": "Skiing",
+    "example_portuguese": "No inverno, gosto de praticar esqui na montanha.",
+    "example_english": "In the winter, I enjoy skiing in the mountains.",
+    "grammar_class": "Noun",
+    "tags": "Sports"
+  },
+  {
     "portuguese": "nadar",
     "english": "to swim",
     "example_portuguese": "Ela aprendeu a nadar quando era criança.",
@@ -2733,7 +3436,7 @@
     "example_portuguese": "Essa canção é muito bonita.",
     "example_english": "This song is very beautiful.",
     "grammar_class": "Noun",
-    "tags": "Song"
+    "tags": "Music"
   },
   {
     "portuguese": "cantar",
@@ -2741,7 +3444,7 @@
     "example_portuguese": "Gosto de cantar no chuveiro.",
     "example_english": "I like to sing in the shower.",
     "grammar_class": "Verb",
-    "tags": "Song"
+    "tags": "Music"
   },
   {
     "portuguese": "festa",
@@ -2765,7 +3468,7 @@
     "example_portuguese": "Vamos jantar em um restaurante.",
     "example_english": "Let's have dinner at a restaurant.",
     "grammar_class": "Noun",
-    "tags": "Restaurant"
+    "tags": "Places"
   },
   {
     "portuguese": "comer",
@@ -2774,22 +3477,6 @@
     "example_english": "I like to eat Italian food.",
     "grammar_class": "Verb",
     "tags": "Restaurant"
-  },
-  {
-    "portuguese": "rua",
-    "english": "street",
-    "example_portuguese": "A rua está movimentada hoje.",
-    "example_english": "The street is busy today.",
-    "grammar_class": "Noun",
-    "tags": "Streets"
-  },
-  {
-    "portuguese": "caminhar",
-    "english": "to walk",
-    "example_portuguese": "Gosto de caminhar pelas ruas da cidade.",
-    "example_english": "I like to walk along the city streets.",
-    "grammar_class": "Verb",
-    "tags": "Streets"
   },
   {
     "portuguese": "cidade",
@@ -2813,7 +3500,7 @@
     "example_portuguese": "O quarto é aconchegante.",
     "example_english": "The room is cozy.",
     "grammar_class": "Noun",
-    "tags": "House's Room"
+    "tags": "Home"
   },
   {
     "portuguese": "descansar",
@@ -2821,8 +3508,224 @@
     "example_portuguese": "Vou descansar um pouco no quarto.",
     "example_english": "I'm going to rest for a while in the room.",
     "grammar_class": "Verb",
-    "tags": "House's Room"
+    "tags": "Home"
   },
+  {
+    "portuguese": "Amor",
+    "english": "Love",
+    "example_portuguese": "O amor é um sentimento poderoso.",
+    "example_english": "Love is a powerful emotion.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Amar",
+    "english": "To love",
+    "example_portuguese": "Eu amo passar tempo com minha família.",
+    "example_english": "I love spending time with my family.",
+    "grammar_class": "Verb",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Carinho",
+    "english": "Affection",
+    "example_portuguese": "Ela demonstra muito carinho pelos seus animais de estimação.",
+    "example_english": "She shows a lot of affection for her pets.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Paixão",
+    "english": "Passion",
+    "example_portuguese": "Ele tem uma paixão intensa por música clássica.",
+    "example_english": "He has an intense passion for classical music.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Romance",
+    "english": "Romance",
+    "example_portuguese": "O romance floresceu entre eles durante as férias.",
+    "example_english": "Romance blossomed between them during the vacation.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Namorado",
+    "english": "Boyfriend",
+    "example_portuguese": "Meu namorado me deu um presente surpresa.",
+    "example_english": "My boyfriend gave me a surprise gift.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Namorada",
+    "english": "Girlfriend",
+    "example_portuguese": "Minha namorada é muito carinhosa e atenciosa.",
+    "example_english": "My girlfriend is very affectionate and caring.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Beijo",
+    "english": "Kiss",
+    "example_portuguese": "Eles trocaram um beijo apaixonado no pôr do sol.",
+    "example_english": "They shared a passionate kiss at sunset.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Abraço",
+    "english": "Hug",
+    "example_portuguese": "Um abraço caloroso pode transmitir muito afeto.",
+    "example_english": "A warm hug can convey a lot of affection.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+    "portuguese": "Coração",
+    "english": "Heart",
+    "example_portuguese": "Meu coração bate mais rápido quando a vejo.",
+    "example_english": "My heart beats faster when I see her.",
+    "grammar_class": "Noun",
+    "tags": "Love"
+  },
+  {
+  "portuguese": "Relacionamento",
+  "english": "Relationship",
+  "example_portuguese": "Eles têm um relacionamento forte e saudável.",
+  "example_english": "They have a strong and healthy relationship.",
+  "grammar_class": "Noun",
+  "tags": "Love"
+},
+{
+  "portuguese": "Casal",
+  "english": "Couple",
+  "example_portuguese": "Aquele casal está junto há muitos anos.",
+  "example_english": "That couple has been together for many years.",
+  "grammar_class": "Noun",
+  "tags": "Love"
+},
+{
+  "portuguese": "Sentimento",
+  "english": "Feeling",
+  "example_portuguese": "O sentimento de amor é indescritível.",
+  "example_english": "The feeling of love is indescribable.",
+  "grammar_class": "Noun",
+  "tags": "Love"
+},
+{
+  "portuguese": "Apaixonado",
+  "english": "In love",
+  "example_portuguese": "Estou completamente apaixonado por ela.",
+  "example_english": "I'm completely in love with her.",
+  "grammar_class": "Adjective",
+  "tags": "Love"
+},
+{
+  "portuguese": "Compromisso",
+  "english": "Commitment",
+  "example_portuguese": "O compromisso deles é baseado em confiança mútua.",
+  "example_english": "Their commitment is based on mutual trust.",
+  "grammar_class": "Noun",
+  "tags": "Love"
+},  
+{
+  "portuguese": "Declaração",
+  "english": "Declaration",
+  "example_portuguese": "Ele fez uma linda declaração de amor a ela.",
+  "example_english": "He made a beautiful declaration of love to her.",
+  "grammar_class": "Noun",
+  "tags": "Love"
+},
+{
+  "portuguese": "Encontro",
+  "english": "Date",
+  "example_portuguese": "Nosso primeiro encontro foi inesquecível.",
+  "example_english": "Our first date was unforgettable.",
+  "grammar_class": "Noun",
+  "tags": "Love"
+},
+{
+  "portuguese": "Amar",
+  "english": "To love",
+  "example_portuguese": "Amar é um sentimento profundo e poderoso.",
+  "example_english": "To love is a deep and powerful emotion.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Cuidar",
+  "english": "To care",
+  "example_portuguese": "Cuidar um do outro é essencial em um relacionamento.",
+  "example_english": "Caring for each other is essential in a relationship.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Namorar",
+  "english": "To date",
+  "example_portuguese": "Eles começaram a namorar no último verão.",
+  "example_english": "They started dating last summer.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Beijar",
+  "english": "To kiss",
+  "example_portuguese": "Eles se beijaram sob o céu estrelado.",
+  "example_english": "They kissed under the starry sky.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Abraçar",
+  "english": "To hug",
+  "example_portuguese": "Ela o abraçou com carinho após um longo dia.",
+  "example_english": "She hugged him affectionately after a long day.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Paquerar",
+  "english": "To flirt",
+  "example_portuguese": "Eles costumavam paquerar um ao outro na escola.",
+  "example_english": "They used to flirt with each other at school.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Encantar",
+  "english": "To enchant",
+  "example_portuguese": "A forma como ele a trata a encanta todos os dias.",
+  "example_english": "The way he treats her enchants her every day.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Seduzir",
+  "english": "To seduce",
+  "example_portuguese": "Ele tentou seduzi-la com seu charme irresistível.",
+  "example_english": "He tried to seduce her with his irresistible charm.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Compartilhar",
+  "english": "To share",
+  "example_portuguese": "Eles compartilham sonhos e planos para o futuro.",
+  "example_english": "They share dreams and plans for the future.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
+{
+  "portuguese": "Apaixonar-se",
+  "english": "To fall in love",
+  "example_portuguese": "Eles se conheceram e logo se apaixonaram.",
+  "example_english": "They met and soon fell in love.",
+  "grammar_class": "Verb",
+  "tags": "Love"
+},
   {
     "portuguese": "prédio",
     "english": "building",
@@ -2845,14 +3748,6 @@
     "example_portuguese": "Gosto de viajar pelo mundo.",
     "example_english": "I like to travel around the world.",
     "grammar_class": "Verb",
-    "tags": "Travel"
-  },
-  {
-    "portuguese": "viagem",
-    "english": "trip/journey",
-    "example_portuguese": "A viagem foi incrível.",
-    "example_english": "The trip was amazing.",
-    "grammar_class": "Noun",
     "tags": "Travel"
   },
   {
@@ -2888,12 +3783,499 @@
     "tags": "Travel"
   },
   {
+    "portuguese": "Feliz",
+    "english": "Happy",
+    "example_portuguese": "Gosto de passar tempo com minha família, isso me deixa feliz.",
+    "example_english": "I enjoy spending time with my family, it makes me happy.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Triste",
+    "english": "Sad",
+    "example_portuguese": "A despedida foi triste, pois meu amigo está indo embora.",
+    "example_english": "The farewell was sad, as my friend is leaving.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Irritado",
+    "english": "Irritated",
+    "example_portuguese": "Ficar preso no trânsito me deixa irritado.",
+    "example_english": "Getting stuck in traffic makes me irritated.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Calmo",
+    "english": "Calm",
+    "example_portuguese": "Gosto de meditar para me manter calmo em momentos estressantes.",
+    "example_english": "I like to meditate to stay calm during stressful moments.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Assustado",
+    "english": "Scared",
+    "example_portuguese": "O barulho alto me deixou assustado.",
+    "example_english": "The loud noise scared me.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Confuso",
+    "english": "Confused",
+    "example_portuguese": "As instruções não estavam claras e fiquei confuso.",
+    "example_english": "The instructions weren't clear, and I got confused.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Entusiasmado",
+    "english": "Excited",
+    "example_portuguese": "Estou muito entusiasmado para a viagem que farei.",
+    "example_english": "I'm very excited about the trip I'll take.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Cansado",
+    "english": "Tired",
+    "example_portuguese": "Após um longo dia de trabalho, estou muito cansado.",
+    "example_english": "After a long day of work, I'm very tired.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Surpreso",
+    "english": "Surprised",
+    "example_portuguese": "Receber um presente inesperado me deixou surpreso.",
+    "example_english": "Receiving an unexpected gift surprised me.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Nervoso",
+    "english": "Nervous",
+    "example_portuguese": "Ficar na frente do público me deixa nervoso.",
+    "example_english": "Standing in front of an audience makes me nervous.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Alegre",
+    "english": "Joyful",
+    "example_portuguese": "Estar com meus amigos me deixa alegre.",
+    "example_english": "Being with my friends makes me joyful.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Desanimado",
+    "english": "Disheartened",
+    "example_portuguese": "Após receber a notícia, fiquei desanimado.",
+    "example_english": "After receiving the news, I felt disheartened.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Eufórico",
+    "english": "Euphoric",
+    "example_portuguese": "Ganhar o prêmio me deixou eufórico.",
+    "example_english": "Winning the prize left me euphoric.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Indiferente",
+    "english": "Indifferent",
+    "example_portuguese": "O assunto não me interessa, estou indiferente.",
+    "example_english": "The topic doesn't interest me, I'm indifferent.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Realizado",
+    "english": "Fulfilled",
+    "example_portuguese": "Alcançar meus objetivos me faz sentir realizado.",
+    "example_english": "Achieving my goals makes me feel fulfilled.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Ansioso",
+    "english": "Anxious",
+    "example_portuguese": "Esperar pelo resultado me deixa ansioso.",
+    "example_english": "Waiting for the result makes me anxious.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Desesperado",
+    "english": "Desperate",
+    "example_portuguese": "Perder as chaves me deixou desesperado.",
+    "example_english": "Losing the keys made me desperate.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Comovido",
+    "english": "Moved",
+    "example_portuguese": "A história me comoveu profundamente.",
+    "example_english": "The story deeply moved me.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Pensativo",
+    "english": "Thoughtful",
+    "example_portuguese": "Fico pensativo quando estou sozinho.",
+    "example_english": "I become thoughtful when I'm alone.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Entediado",
+    "english": "Bored",
+    "example_portuguese": "Esperar na fila me deixa entediado.",
+    "example_english": "Waiting in line bores me.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Empolgado",
+    "english": "Excited",
+    "example_portuguese": "Estou empolgado com a viagem que faremos.",
+    "example_english": "I'm excited about the trip we're taking.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Desconfiado",
+    "english": "Suspicious",
+    "example_portuguese": "As atitudes dele me deixam desconfiado.",
+    "example_english": "His actions make me suspicious.",
+    "grammar_class": "Adjective",
+    "tags": "Feelings"
+  },
+  {
+    "portuguese": "Talentoso",
+    "english": "Talented",
+    "example_portuguese": "Você é muito talentoso na música.",
+    "example_english": "You are very talented in music.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Inteligente",
+    "english": "Intelligent",
+    "example_portuguese": "Sua solução para o problema foi muito inteligente.",
+    "example_english": "Your solution to the problem was very intelligent.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Lindo",
+    "english": "Beautiful",
+    "example_portuguese": "Essa paisagem é simplesmente linda.",
+    "example_english": "This landscape is simply beautiful.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Criativo",
+    "english": "Creative",
+    "example_portuguese": "Seu trabalho artístico é incrivelmente criativo.",
+    "example_english": "Your artistic work is incredibly creative.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Generoso",
+    "english": "Generous",
+    "example_portuguese": "Você é sempre tão generoso com seu tempo.",
+    "example_english": "You are always so generous with your time.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Habilidoso",
+    "english": "Skillful",
+    "example_portuguese": "Você é muito habilidoso com suas mãos.",
+    "example_english": "You are very skillful with your hands.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Elegante",
+    "english": "Elegant",
+    "example_portuguese": "Seu estilo é sempre muito elegante.",
+    "example_english": "Your style is always very elegant.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Simpático",
+    "english": "Friendly",
+    "example_portuguese": "Você é uma pessoa tão simpática e acolhedora.",
+    "example_english": "You are such a friendly and welcoming person.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Inspirador",
+    "english": "Inspiring",
+    "example_portuguese": "Suas palavras são sempre tão inspiradoras.",
+    "example_english": "Your words are always so inspiring.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Dedicado",
+    "english": "Dedicated",
+    "example_portuguese": "Você é muito dedicado ao seu trabalho.",
+    "example_english": "You are very dedicated to your work.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Carismático",
+    "english": "Charismatic",
+    "example_portuguese": "Você tem um jeito carismático de se expressar.",
+    "example_english": "You have a charismatic way of expressing yourself.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Atencioso",
+    "english": "Attentive",
+    "example_portuguese": "Sua atenção aos detalhes é admirável.",
+    "example_english": "Your attention to detail is admirable.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Resiliente",
+    "english": "Resilient",
+    "example_portuguese": "Você é uma pessoa extremamente resiliente.",
+    "example_english": "You are an extremely resilient person.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Gentil",
+    "english": "Kind",
+    "example_portuguese": "Sua gentileza faz com que todos se sintam bem-vindos.",
+    "example_english": "Your kindness makes everyone feel welcome.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Empático",
+    "english": "Empathetic",
+    "example_portuguese": "Você sempre demonstra empatia pelas situações dos outros.",
+    "example_english": "You always show empathy for others' situations.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Persistente",
+    "english": "Persistent",
+    "example_portuguese": "Sua persistência para alcançar objetivos é admirável.",
+    "example_english": "Your persistence in achieving goals is admirable.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Gracioso",
+    "english": "Graceful",
+    "example_portuguese": "Seus movimentos são sempre tão graciosos.",
+    "example_english": "Your movements are always so graceful.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Sábio",
+    "english": "Wise",
+    "example_portuguese": "Suas palavras sempre refletem sabedoria.",
+    "example_english": "Your words always reflect wisdom.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Autêntico",
+    "english": "Authentic",
+    "example_portuguese": "Sua autenticidade é inspiradora para os outros.",
+    "example_english": "Your authenticity is inspiring to others.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Sociável",
+    "english": "Sociable",
+    "example_portuguese": "Você é uma pessoa muito sociável e fácil de se relacionar.",
+    "example_english": "You are a very sociable and easy-to-get-along-with person.",
+    "grammar_class": "Adjective",
+    "tags": "Compliments"
+  },
+  {
+    "portuguese": "Água",
+    "english": "Water",
+    "example_portuguese": "Por favor, traga uma garrafa de água.",
+    "example_english": "Please bring a bottle of water.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Café",
+    "english": "Coffee",
+    "example_portuguese": "Gosto de um bom café pela manhã.",
+    "example_english": "I enjoy a good coffee in the morning.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Chá",
+    "english": "Tea",
+    "example_portuguese": "Prefiro chá de camomila à noite.",
+    "example_english": "I prefer chamomile tea at night.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Suco",
+    "english": "Juice",
+    "example_portuguese": "Um copo de suco de laranja, por favor.",
+    "example_english": "A glass of orange juice, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Refrigerante",
+    "english": "Soda",
+    "example_portuguese": "Uma lata de refrigerante, por favor.",
+    "example_english": "A can of soda, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Vinho",
+    "english": "Wine",
+    "example_portuguese": "Uma taça de vinho tinto, por favor.",
+    "example_english": "A glass of red wine, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Cerveja",
+    "english": "Beer",
+    "example_portuguese": "Uma cerveja gelada, por favor.",
+    "example_english": "A cold beer, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Leite",
+    "english": "Milk",
+    "example_portuguese": "Quero um copo de leite com o café da manhã.",
+    "example_english": "I want a glass of milk with breakfast.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Agua de coco",
+    "english": "Coconut Water",
+    "example_portuguese": "Uma água de coco fresca, por favor.",
+    "example_english": "A fresh coconut water, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Chocolate Quente",
+    "english": "Hot Chocolate",
+    "example_portuguese": "Um copo de chocolate quente nos dias frios é ótimo.",
+    "example_english": "A cup of hot chocolate on cold days is great.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },{
+    "portuguese": "Caipirinha",
+    "english": "Caipirinha",
+    "example_portuguese": "Uma caipirinha de limão, por favor.",
+    "example_english": "A caipirinha with lime, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Coquetel",
+    "english": "Cocktail",
+    "example_portuguese": "Gostaria de experimentar um coquetel tropical.",
+    "example_english": "I'd like to try a tropical cocktail.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Água de Gengibre",
+    "english": "Ginger Water",
+    "example_portuguese": "Uma jarra de água de gengibre, por favor.",
+    "example_english": "A jug of ginger water, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Cappuccino",
+    "english": "Cappuccino",
+    "example_portuguese": "Quero um cappuccino com canela por cima.",
+    "example_english": "I want a cappuccino with cinnamon on top.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Chá Gelado",
+    "english": "Iced Tea",
+    "example_portuguese": "Uma jarra de chá gelado de pêssego, por favor.",
+    "example_english": "A jug of peach iced tea, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Milkshake",
+    "english": "Milkshake",
+    "example_portuguese": "Um milkshake de morango, por favor.",
+    "example_english": "A strawberry milkshake, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Suco",
+    "english": "Fresh Juice",
+    "example_portuguese": "Um suco natural de abacaxi, por favor.",
+    "example_english": "A fresh pineapple juice, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Champanhe",
+    "english": "Champagne",
+    "example_portuguese": "Vamos brindar com uma taça de champanhe.",
+    "example_english": "Let's toast with a glass of champagne.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
+    "portuguese": "Limonada",
+    "english": "Lemonade",
+    "example_portuguese": "Uma limonada bem gelada, por favor.",
+    "example_english": "A nice cold lemonade, please.",
+    "grammar_class": "Noun",
+    "tags": "Drinks"
+  },
+  {
     "portuguese": "canção",
     "english": "song",
     "example_portuguese": "Essa canção tem uma letra emocionante.",
     "example_english": "This song has touching lyrics.",
     "grammar_class": "Noun",
-    "tags": "Song"
+    "tags": "Music"
   },
   {
     "portuguese": "cantar",
@@ -2901,7 +4283,7 @@
     "example_portuguese": "Adoro cantar no chuveiro.",
     "example_english": "I love to sing in the shower.",
     "grammar_class": "Verb",
-    "tags": "Song"
+    "tags": "Music"
   },
   {
     "portuguese": "músico",
@@ -2909,7 +4291,7 @@
     "example_portuguese": "Ele é um músico talentoso.",
     "example_english": "He is a talented musician.",
     "grammar_class": "Noun",
-    "tags": "Song"
+    "tags": "Music"
   },
   {
     "portuguese": "ritmo",
@@ -2917,7 +4299,7 @@
     "example_portuguese": "Essa música tem um ritmo contagiante.",
     "example_english": "This song has a contagious rhythm.",
     "grammar_class": "Noun",
-    "tags": "Song"
+    "tags": "Music"
   },
   {
     "portuguese": "festa",
@@ -2952,14 +4334,6 @@
     "tags": "Party"
   },
   {
-    "portuguese": "restaurante",
-    "english": "restaurant",
-    "example_portuguese": "Vamos jantar em um restaurante novo.",
-    "example_english": "Let's have dinner at a new restaurant.",
-    "grammar_class": "Noun",
-    "tags": "Restaurant"
-  },
-  {
     "portuguese": "comer",
     "english": "to eat",
     "example_portuguese": "Gosto de comer comida asiática.",
@@ -2984,12 +4358,324 @@
     "tags": "Restaurant"
   },
   {
+    "portuguese": "O cardápio",
+    "english": "The menu",
+    "example_portuguese": "Pode me trazer o cardápio, por favor?",
+    "example_english": "Can you bring me the menu, please?",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Entradas",
+    "english": "Appetizers",
+    "example_portuguese": "Vamos pedir algumas entradas para começar.",
+    "example_english": "Let's order some appetizers to start.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Prato principal",
+    "english": "Main course",
+    "example_portuguese": "Qual é o prato principal recomendado?",
+    "example_english": "What's the recommended main course?",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Bebidas",
+    "english": "Drinks",
+    "example_portuguese": "Gostaria de pedir algumas bebidas, por favor.",
+    "example_english": "I would like to order some drinks, please.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Sobremesas",
+    "english": "Desserts",
+    "example_portuguese": "Vamos conferir as opções de sobremesas.",
+    "example_english": "Let's check out the dessert options.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Pedido",
+    "english": "Order",
+    "example_portuguese": "Estamos prontos para fazer o pedido.",
+    "example_english": "We're ready to place our order.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Garçom",
+    "english": "Waiter",
+    "example_portuguese": "Poderia chamar o garçom, por favor?",
+    "example_english": "Could you call the waiter, please?",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Conta",
+    "english": "Bill/check",
+    "example_portuguese": "Quando estivermos prontos, podemos pedir a conta.",
+    "example_english": "When we're ready, we can ask for the bill.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Água mineral",
+    "english": "Mineral water",
+    "example_portuguese": "Uma garrafa de água mineral, por favor.",
+    "example_english": "A bottle of mineral water, please.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Prato do dia",
+    "english": "Dish of the day",
+    "example_portuguese": "Qual é o prato do dia?",
+    "example_english": "What's the dish of the day?",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "De entrada",
+    "english": "As an appetizer",
+    "example_portuguese": "Para mim, a salada é de entrada.",
+    "example_english": "For me, the salad is an appetizer.",
+    "grammar_class": "Prepositional Phrase",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Prato vegetariano",
+    "english": "Vegetarian dish",
+    "example_portuguese": "Qual é o prato vegetariano do dia?",
+    "example_english": "What's the vegetarian dish of the day?",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Prato especial",
+    "english": "Special dish",
+    "example_portuguese": "Quero experimentar o prato especial da casa.",
+    "example_english": "I want to try the special dish of the house.",
+    "grammar_class": "Noun",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Mal passado",
+    "english": "Rare",
+    "example_portuguese": "Eu gosto do meu bife mal passado.",
+    "example_english": "I like my steak rare.",
+    "grammar_class": "Adjective",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Ao ponto para mal",
+    "english": "Medium-rare",
+    "example_portuguese": "Pode me trazer o bife ao ponto para mal?",
+    "example_english": "Can you bring me the steak medium-rare?",
+    "grammar_class": "Prepositional Phrase",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Ao ponto",
+    "english": "Medium",
+    "example_portuguese": "O frango grelhado fica melhor ao ponto.",
+    "example_english": "Grilled chicken is better medium.",
+    "grammar_class": "Adjective",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Ao ponto para bem",
+    "english": "Medium-well",
+    "example_portuguese": "Ela prefere o hambúrguer ao ponto para bem.",
+    "example_english": "She prefers the burger medium-well.",
+    "grammar_class": "Prepositional Phrase",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Bem passado",
+    "english": "Well-done",
+    "example_portuguese": "O cliente quer o filé bem passado.",
+    "example_english": "The customer wants the filet well-done.",
+    "grammar_class": "Adjective",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Como você prefere?",
+    "english": "How do you prefer it?",
+    "example_portuguese": "O garçom perguntou: 'Como você prefere?'",
+    "example_english": "The waiter asked, 'How do you prefer it?'",
+    "grammar_class": "Phrase",
+    "tags": "Restaurant"
+  },
+  {
+    "portuguese": "Hospital",
+    "english": "Hospital",
+    "example_portuguese": "Preciso ir ao hospital para uma consulta.",
+    "example_english": "I need to go to the hospital for a check-up.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Escola",
+    "english": "School",
+    "example_portuguese": "As crianças estão na escola agora.",
+    "example_english": "The kids are at school now.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Igreja",
+    "english": "Church",
+    "example_portuguese": "Vamos à igreja aos domingos.",
+    "example_english": "We go to church on Sundays.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Banco",
+    "english": "Bank",
+    "example_portuguese": "Preciso ir ao banco para sacar dinheiro.",
+    "example_english": "I need to go to the bank to withdraw money.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Parque",
+    "english": "Park",
+    "example_portuguese": "Vamos passear no parque hoje.",
+    "example_english": "Let's take a walk in the park today.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Supermercado",
+    "english": "Supermarket",
+    "example_portuguese": "Preciso fazer compras no supermercado.",
+    "example_english": "I need to go grocery shopping at the supermarket.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Restaurante",
+    "english": "Restaurant",
+    "example_portuguese": "Vamos jantar em um restaurante hoje à noite.",
+    "example_english": "Let's have dinner at a restaurant tonight.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Cinema",
+    "english": "Cinema",
+    "example_portuguese": "Vamos assistir a um filme no cinema.",
+    "example_english": "Let's watch a movie at the cinema.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Estação de trem",
+    "english": "Train station",
+    "example_portuguese": "Vou pegar o trem na estação de trem mais tarde.",
+    "example_english": "I'll catch the train at the train station later.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Biblioteca",
+    "english": "Library",
+    "example_portuguese": "Gosto de ler livros na biblioteca.",
+    "example_english": "I like reading books at the library.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Correio",
+    "english": "Post office",
+    "example_portuguese": "Preciso enviar uma carta no correio.",
+    "example_english": "I need to send a letter at the post office.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Farmácia",
+    "english": "Drugstore/Pharmacy",
+    "example_portuguese": "Vou à farmácia comprar remédios.",
+    "example_english": "I'm going to the drugstore to buy medicine.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Praça",
+    "english": "Square",
+    "example_portuguese": "A praça é um ótimo lugar para relaxar.",
+    "example_english": "The square is a great place to relax.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Academia",
+    "english": "Gym",
+    "example_portuguese": "Vou à academia fazer exercícios.",
+    "example_english": "I'm going to the gym to work out.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Cafeteria",
+    "english": "Coffeshop",
+    "example_portuguese": "Vamos tomar um café na cafeteria.",
+    "example_english": "Let's have a coffee at the coffeshop.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Praia",
+    "english": "Beach",
+    "example_portuguese": "Adoro passar o dia na praia.",
+    "example_english": "I love spending the day at the beach.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Teatro",
+    "english": "Theater",
+    "example_portuguese": "Vamos assistir a uma peça de teatro esta semana.",
+    "example_english": "Let's watch a theater play this week.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Loja",
+    "english": "Shop/store",
+    "example_portuguese": "Vou comprar roupas na loja de departamentos.",
+    "example_english": "I'm going to buy clothes at the department store.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Museu",
+    "english": "Museum",
+    "example_portuguese": "Gosto de visitar museus para aprender sobre história.",
+    "example_english": "I like visiting museums to learn about history.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
+    "portuguese": "Estádio",
+    "english": "Stadium",
+    "example_portuguese": "Vamos assistir a um jogo de futebol no estádio.",
+    "example_english": "Let's watch a soccer game at the stadium.",
+    "grammar_class": "Noun",
+    "tags": "Places"
+  },
+  {
     "portuguese": "rua",
     "english": "street",
     "example_portuguese": "Caminhar pelas ruas é uma forma de relaxar.",
     "example_english": "Walking along the streets is a way to relax.",
     "grammar_class": "Noun",
-    "tags": "Streets"
+    "tags": "Go for a walk"
   },
   {
     "portuguese": "caminhar",
@@ -2997,7 +4683,7 @@
     "example_portuguese": "Gosto de caminhar pelas ruas da cidade.",
     "example_english": "I like to walk along the city streets.",
     "grammar_class": "Verb",
-    "tags": "Streets"
+    "tags": "Go for a walk"
   },
   {
     "portuguese": "trânsito",
@@ -3005,7 +4691,7 @@
     "example_portuguese": "O trânsito está congestionado hoje.",
     "example_english": "The traffic is congested today.",
     "grammar_class": "Noun",
-    "tags": "Streets"
+    "tags": "City"
   },
   {
     "portuguese": "dirigir",
@@ -3013,7 +4699,7 @@
     "example_portuguese": "Prefiro dirigir do que usar transporte público.",
     "example_english": "I prefer to drive rather than using public transportation.",
     "grammar_class": "Verb",
-    "tags": "Streets"
+    "tags": "Actions"
   },
   {
     "portuguese": "cidade",
@@ -3053,7 +4739,7 @@
     "example_portuguese": "Vou arrumar meu quarto.",
     "example_english": "I'm going to tidy up my room.",
     "grammar_class": "Noun",
-    "tags": "House's Room"
+    "tags": "Home"
   },
   {
     "portuguese": "descansar",
@@ -3061,7 +4747,7 @@
     "example_portuguese": "Vou descansar um pouco no quarto.",
     "example_english": "I'm going to rest for a while in the room.",
     "grammar_class": "Verb",
-    "tags": "House's Room"
+    "tags": "Home"
   },
   {
     "portuguese": "cama",
@@ -3069,7 +4755,7 @@
     "example_portuguese": "A cama é confortável.",
     "example_english": "The bed is comfortable.",
     "grammar_class": "Noun",
-    "tags": "House's Room"
+    "tags": "Home"
   },
   {
     "portuguese": "estudar",
@@ -3077,7 +4763,7 @@
     "example_portuguese": "Gosto de estudar no meu quarto.",
     "example_english": "I like to study in my room.",
     "grammar_class": "Verb",
-    "tags": "House's Room"
+    "tags": "Home"
   },
   {
     "portuguese": "prédio",
@@ -3125,7 +4811,7 @@
     "example_portuguese": "Há um restaurante no topo do prédio.",
     "example_english": "There's a restaurant on top of the building.",
     "grammar_class": "Noun",
-    "tags": "Buildings"
+    "tags": "Places"
   },
   {
     "portuguese": "janela",
@@ -3142,5 +4828,477 @@
     "example_english": "Let's renovate this old building.",
     "grammar_class": "Verb",
     "tags": "Buildings"
+  },
+  {
+    "portuguese": "Médico",
+    "english": "Doctor",
+    "example_portuguese": "O médico cuida da saúde dos pacientes.",
+    "example_english": "The doctor takes care of the patients' health.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Professor",
+    "english": "Teacher",
+    "example_portuguese": "O professor ensina os alunos na sala de aula.",
+    "example_english": "The teacher teaches the students in the classroom.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Advogado",
+    "english": "Lawyer",
+    "example_portuguese": "O advogado defende os direitos de seus clientes.",
+    "example_english": "The lawyer defends the rights of their clients.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Engenheiro",
+    "english": "Engineer",
+    "example_portuguese": "O engenheiro projeta e constrói estruturas.",
+    "example_english": "The engineer designs and constructs structures.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Enfermeiro",
+    "english": "Nurse",
+    "example_portuguese": "O enfermeiro cuida dos pacientes no hospital.",
+    "example_english": "The nurse takes care of the patients in the hospital.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Programador",
+    "english": "Programmer",
+    "example_portuguese": "O programador escreve códigos de computador.",
+    "example_english": "The programmer writes computer code.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Chef",
+    "english": "Chef",
+    "example_portuguese": "O chef prepara pratos deliciosos no restaurante.",
+    "example_english": "The chef prepares delicious dishes at the restaurant.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Policial",
+    "english": "Police officer",
+    "example_portuguese": "O policial mantém a ordem e protege a comunidade.",
+    "example_english": "The police officer maintains order and protects the community.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Piloto",
+    "english": "Pilot",
+    "example_portuguese": "O piloto comanda o avião durante o voo.",
+    "example_english": "The pilot commands the airplane during the flight.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Artista",
+    "english": "Artist",
+    "example_portuguese": "O artista cria obras de arte impressionantes.",
+    "example_english": "The artist creates impressive works of art.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Bombeiro",
+    "english": "Firefighter",
+    "example_portuguese": "O bombeiro combate incêndios e salva vidas.",
+    "example_english": "The firefighter fights fires and saves lives.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Empresário",
+    "english": "Businessperson",
+    "example_portuguese": "O empresário administra sua própria empresa.",
+    "example_english": "The businessperson manages their own company.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Dentista",
+    "english": "Dentist",
+    "example_portuguese": "O dentista cuida da saúde bucal de seus pacientes.",
+    "example_english": "The dentist takes care of their patients' oral health.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Cientista",
+    "english": "Scientist",
+    "example_portuguese": "O cientista faz pesquisas e descobertas no laboratório.",
+    "example_english": "The scientist conducts research and makes discoveries in the lab.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Garçom",
+    "english": "Waiter/Waitress",
+    "example_portuguese": "O garçom anota os pedidos dos clientes no restaurante.",
+    "example_english": "The waiter/waitress takes the customers' orders at the restaurant.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Pintor",
+    "english": "Painter",
+    "example_portuguese": "O pintor cria obras de arte usando tintas e pincéis.",
+    "example_english": "The painter creates works of art using paints and brushes.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Músico",
+    "english": "Musician",
+    "example_portuguese": "O músico toca instrumentos e cria músicas.",
+    "example_english": "The musician plays instruments and creates music.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Cozinheiro",
+    "english": "Cook",
+    "example_portuguese": "O cozinheiro prepara refeições deliciosas no restaurante.",
+    "example_english": "The cook prepares delicious meals at the restaurant.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Caixa",
+    "english": "Cashier",
+    "example_portuguese": "A caixa registra as compras dos clientes no supermercado.",
+    "example_english": "The cashier records the customers' purchases at the supermarket.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Escritor",
+    "english": "Writer",
+    "example_portuguese": "O escritor escreve livros, contos e artigos.",
+    "example_english": "The writer writes books, stories, and articles.",
+    "grammar_class": "Noun",
+    "tags": "Jobs"
+  },
+  {
+    "portuguese": "Sofá",
+    "english": "Sofa",
+    "example_portuguese": "Gosto de relaxar no sofá após um longo dia.",
+    "example_english": "I like to relax on the sofa after a long day.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Mesa",
+    "english": "Table",
+    "example_portuguese": "Nós nos reunimos ao redor da mesa para jantar.",
+    "example_english": "We gather around the table for dinner.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Cama",
+    "english": "Bed",
+    "example_portuguese": "A cama é o lugar onde descansamos à noite.",
+    "example_english": "The bed is where we rest at night.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Armário",
+    "english": "Cabinet",
+    "example_portuguese": "Guardo minhas roupas no armário do quarto.",
+    "example_english": "I keep my clothes in the bedroom cabinet.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Geladeira",
+    "english": "Refrigerator",
+    "example_portuguese": "A geladeira mantém nossos alimentos frescos.",
+    "example_english": "The refrigerator keeps our food fresh.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Fogão",
+    "english": "Stove",
+    "example_portuguese": "Eu cozinho minhas refeições no fogão.",
+    "example_english": "I cook my meals on the stove.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Televisão",
+    "english": "Television",
+    "example_portuguese": "Assistimos a filmes na televisão durante o final de semana.",
+    "example_english": "We watch movies on the television during the weekend.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Luminária",
+    "english": "Lamp",
+    "example_portuguese": "A luminária ilumina o quarto à noite.",
+    "example_english": "The lamp lights up the room at night.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Máquina de lavar roupa",
+    "english": "Washing machine",
+    "example_portuguese": "A máquina de lavar roupa torna a lavagem mais conveniente.",
+    "example_english": "The washing machine makes laundry more convenient.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Computador",
+    "english": "Computer",
+    "example_portuguese": "Uso o computador para trabalhar e navegar na internet.",
+    "example_english": "I use the computer for work and browsing the internet.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Micro-ondas",
+    "english": "Microwave",
+    "example_portuguese": "Aqueço minha comida no micro-ondas.",
+    "example_english": "I heat up my food in the microwave.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Banheiro",
+    "english": "Bathroom",
+    "example_portuguese": "Vou ao banheiro para escovar os dentes.",
+    "example_english": "I go to the bathroom to brush my teeth.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Espelho",
+    "english": "Mirror",
+    "example_portuguese": "O espelho reflete minha imagem.",
+    "example_english": "The mirror reflects my image.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Chuveiro",
+    "english": "Shower",
+    "example_portuguese": "Tomo banho de chuveiro todas as manhãs.",
+    "example_english": "I take a shower every morning.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Janela",
+    "english": "Window",
+    "example_portuguese": "Abro a janela para deixar entrar ar fresco.",
+    "example_english": "I open the window to let in fresh air.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Travesseiro",
+    "english": "Pillow",
+    "example_portuguese": "Descanso a cabeça no travesseiro para dormir.",
+    "example_english": "I rest my head on the pillow to sleep.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Tapete",
+    "english": "Carpet/Rug",
+    "example_portuguese": "O tapete deixa o ambiente mais aconchegante.",
+    "example_english": "The carpet makes the room cozier.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Relógio",
+    "english": "Clock",
+    "example_portuguese": "O relógio marca as horas na parede da sala.",
+    "example_english": "The clock shows the time on the living room wall.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Tapete",
+    "english": "Carpet/Rug",
+    "example_portuguese": "O tapete deixa o ambiente mais aconchegante.",
+    "example_english": "The carpet makes the room cozier.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Vaso",
+    "english": "Vase",
+    "example_portuguese": "Coloco flores frescas no vaso da sala.",
+    "example_english": "I put fresh flowers in the vase in the living room.",
+    "grammar_class": "Noun",
+    "tags": "Home"
+  },
+  {
+    "portuguese": "Sol",
+    "english": "Sun",
+    "example_portuguese": "Hoje está fazendo sol e calor.",
+    "example_english": "Today is sunny and hot.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Chuva",
+    "english": "Rain",
+    "example_portuguese": "A chuva está prevista para a tarde.",
+    "example_english": "Rain is forecasted for the afternoon.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Nuvens",
+    "english": "Clouds",
+    "example_portuguese": "As nuvens estão cobrindo o céu hoje.",
+    "example_english": "The clouds are covering the sky today.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Vento",
+    "english": "Wind",
+    "example_portuguese": "O vento está forte hoje, cuidado com os cabelos!",
+    "example_english": "The wind is strong today, be careful with your hair!",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Neve",
+    "english": "Snow",
+    "example_portuguese": "Esperamos ter neve este ano no Natal.",
+    "example_english": "We hope to have snow this year on Christmas.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Frio",
+    "english": "Cold",
+    "example_portuguese": "Os dias estão ficando mais frios no outono.",
+    "example_english": "The days are getting colder in the autumn.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Calor",
+    "english": "Heat",
+    "example_portuguese": "O calor está insuportável hoje!",
+    "example_english": "The heat is unbearable today!",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Tempestade",
+    "english": "Storm",
+    "example_portuguese": "Uma tempestade está se aproximando.",
+    "example_english": "A storm is approaching.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Névoa",
+    "english": "Fog",
+    "example_portuguese": "A névoa está tornando a visibilidade baixa.",
+    "example_english": "The fog is causing low visibility.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Arco-Íris",
+    "english": "Rainbow",
+    "example_portuguese": "Um arco-íris apareceu após a chuva.",
+    "example_english": "A rainbow appeared after the rain.",
+    "grammar_class": "Noun",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Chover",
+    "english": "To rain",
+    "example_portuguese": "Hoje vai chover o dia todo.",
+    "example_english": "Today it's going to rain all day.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Nevar",
+    "english": "To snow",
+    "example_portuguese": "Espero que neve este ano.",
+    "example_english": "I hope it snows this year.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Ventar",
+    "english": "To be windy",
+    "example_portuguese": "Está ventando muito lá fora.",
+    "example_english": "It's very windy outside.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Relampaguear",
+    "english": "To lightning",
+    "example_portuguese": "Ontem à noite relampagueou bastante.",
+    "example_english": "Last night there was a lot of lightning.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Trovoar",
+    "english": "To thunder",
+    "example_portuguese": "Durante a tempestade, começou a trovoar.",
+    "example_english": "During the storm, it started to thunder.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Aquecer",
+    "english": "To warm up",
+    "example_portuguese": "A temperatura vai aquecer nos próximos dias.",
+    "example_english": "The temperature will warm up in the next few days.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Esfriar",
+    "english": "To cool down",
+    "example_portuguese": "A noite está esfriando rapidamente.",
+    "example_english": "The night is cooling down quickly.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Escurecer",
+    "english": "To get dark",
+    "example_portuguese": "À medida que o dia termina, começa a escurecer.",
+    "example_english": "As the day ends, it starts to get dark.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
+  },
+  {
+    "portuguese": "Amanhecer",
+    "english": "To dawn",
+    "example_portuguese": "O sol vai amanhecer em breve.",
+    "example_english": "The sun will dawn soon.",
+    "grammar_class": "Verb",
+    "tags": "Weather"
   }
 ]
