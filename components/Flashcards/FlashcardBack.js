@@ -26,7 +26,7 @@ const FlashcardBack = ({
 
   return (
     <div
-      className={`max-w-md mx-auto p-8 bg-white border rounded-lg shadow-lg flex flex-col justify-between items-center space-y-8 text-${fontColorClass}`}
+      className={`max-w-md mx-auto p-8 bg-white border rounded-lg shadow-lg flex flex-col justify-between items-center space-y-8 text-gray-700`}
     >
       <h2 className={`text-2xl mb-2 font-bold`}>{resultText}</h2>
       {result === 'right' ? (

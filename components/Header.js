@@ -2,23 +2,23 @@ import Link from 'next/link';
 
 const Header = () => {
   return (
-    <header className=" text-white p-4">
+    <header className="text-white p-4">
       <nav className="container mx-auto flex justify-center items-center">
         <ul className="flex space-x-6">
           <li>
-            <a href="/" className="hover:text-gray-300">
-              Home
-            </a>
+            <Link href="/">
+              <p className="hover:text-gray-300">Home</p>
+            </Link>
           </li>
           <li>
-            <a href="/categories" className="hover:text-gray-300">
-              Categories
-            </a>
+            <Link href="/categories">
+              <p className="hover:text-gray-300">Categories</p>
+            </Link>
           </li>
           <li>
-            <a href="/about" className="hover:text-gray-300">
-              About
-            </a>
+            <Link href="/about">
+              <p className="hover:text-gray-300">About</p>
+            </Link>
           </li>
         </ul>
       </nav>
