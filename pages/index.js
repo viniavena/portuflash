@@ -44,6 +44,9 @@ export default function Home() {
 
   return (
     <div className={`${getBackgroundColor()}`}>
+      <Head>
+        <link rel="icon" href="/icon.svg" />
+      </Head>
       <Header />
       <main className="min-h-screen flex justify-center pt-10">
         <FlashcardDeck

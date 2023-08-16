@@ -2,6 +2,7 @@ import react, { useState } from 'react';
 import FlashcardBack from './FlashcardBack';
 import FlashcardFront from './FlashcardFront';
 import LoadingSpinner from '../LoadingSpinner';
+import Logo from '../Logo';
 
 const FlashcardDeck = ({
   flashcard,
@@ -71,8 +72,8 @@ const FlashcardDeck = ({
 
   return (
     <div className="text-center">
-      <h1 className="text-4xl font-bold mb-2">Hora do Português</h1>
-      <h2 className="text-2xl mb-10 font-bold">Portuguese Time</h2>
+      <Logo />
+
       <div className="max-w-full px-4 sm:max-w-md mx-auto sm:mx-4">
         {flashcard ? (
           showBack ? (

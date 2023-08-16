@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
+import Logo from '../components/Logo';
 
 export default function About() {
   return (
@@ -7,6 +8,7 @@ export default function About() {
       <Header />
       <main className="min-h-screen flex justify-center items-center  p-10">
         <div className="max-w-screen-sm mx-auto">
+          <Logo />
           <p className="mb-10">
             Esse projeto foi desenvolvido para tentar ajudar a minha namorada a
             aprender a minha língua e com isso poder ter contato com o melhor
