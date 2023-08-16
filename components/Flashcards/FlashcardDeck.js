@@ -1,4 +1,4 @@
-import react, { useState } from 'react';
+import React, { useState } from 'react';
 import FlashcardBack from './FlashcardBack';
 import FlashcardFront from './FlashcardFront';
 import LoadingSpinner from '../LoadingSpinner';
