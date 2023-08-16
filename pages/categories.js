@@ -18,21 +18,15 @@ const Categories = () => {
       <Header />
       <main className="min-h-screen flex justify-center items-center p-10">
         <div className="max-w-screen-lg mx-auto">
-          {categories ? (
+          {categories.length > 0 ? (
             <>
-              {' '}
               <h2 className="mb-10 text-white text-center text-2xl">
                 Categories
               </h2>
               <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 {categories.map((category, index) => (
                   <li key={index}>
-                    <Link
-                      href={{
-                        pathname: '/categories',
-                        query: { category: category },
-                      }}
-                    >
+                    <Link href={`/categories/${category}`}>
                       <div className="block p-4 bg-white hover:bg-gray-100 rounded-lg transition duration-300 text-custom-purple">
                         <span className="text-lg font-semibold break-words">
                           {category}

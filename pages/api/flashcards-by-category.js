@@ -9,6 +9,6 @@ export default function handler(req, res) {
     );
     res.status(200).json(filteredFlashcards);
   } else {
-    res.status(400).json({ error: 'Category parameter is required.' });
+    res.status(200).json(flashcardsData);
   }
 }
